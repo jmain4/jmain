@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmain4
 - 👀 I’m interested in learning R
 - 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on enrollment data
+- 💞️ I’m looking to collaborate on educational outcomes data
 - 📫 How to reach me jmain@tunxis.edu
 
 <!---
